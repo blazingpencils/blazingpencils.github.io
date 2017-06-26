@@ -1,18 +1,15 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "GE Water Filter Cartridge"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Tom Goddu
 categories:
 - project
-img: portfolio_03.jpg
-thumb: thumb02.jpg
+img: GEWater.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- GEWater.png
 tagged: Flat, UI, Development
-client: Wonder Corp.
+client: Farm Animal Medical
 website: https://blacktie.co
 ---
 ####YOUR PROJECT NAME
