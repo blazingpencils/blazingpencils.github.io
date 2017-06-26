@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
 - project
-img: CrossbowFishing-1.png
+img: CrossbowFishingEdit-1.png
 carousel:
 - CrossbowFishing-1.png
 - CrossbowFishing-2.png
