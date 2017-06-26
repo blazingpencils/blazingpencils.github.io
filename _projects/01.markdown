@@ -1,18 +1,18 @@
 ---
 layout: project
-title:  "PROJECT 1"
+title:  "Winnebago"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Tom Goddu
 categories:
 - project
-img: portfolio_10.jpg
-thumb: thumb02.jpg
+img: winnebago.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- winnebago.png
+- Trailer-1.png
+- Boat-1.png
+- ChargingStation-1.png
 tagged: Flat, UI, Development
-client: Wonder Corp.
+client: Winnebago
 website: https://blacktie.co
 ---
 ####YOUR PROJECT NAME
