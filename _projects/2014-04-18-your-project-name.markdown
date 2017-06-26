@@ -1,18 +1,15 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Digital A/C Filler"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Tom Goddu
 categories:
 - project
-img: portfolio_07.jpg
-thumb: thumb02.jpg
+img: DigitalACFiller-1.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- DigitalACFiller-1.png
 tagged: Flat, UI, Development
-client: Wonder Corp.
+client: Vehicle Parts Co.
 website: https://blacktie.co
 ---
 ####YOUR PROJECT NAME
