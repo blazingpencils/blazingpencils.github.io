@@ -118,6 +118,6 @@ about: "Lorem Ipsum is simply dummy text of the printing and typesetting industr
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: ""This is my quote and it's really witty because I said it.""
+    message: "This is my quote and it's really witty because I said it."
     author: Tom Goddu
     position: INDUSTRIAL DESIGNER
