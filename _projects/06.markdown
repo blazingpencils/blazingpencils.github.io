@@ -1,18 +1,15 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "ABLE - Baggage Robot"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Tom Goddu
 categories:
 - project
-img: portfolio_05.jpg
-thumb: thumb02.jpg
+img: ABLEEdit-1.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- ABLE-1.png
 tagged: Flat, UI, Development
-client: Wonder Corp.
+client: Central Airport
 website: https://blacktie.co
 ---
 ####YOUR PROJECT NAME
