@@ -1,18 +1,16 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Crossbow Fishingrod"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Tom Goddu
 categories:
 - project
-img: portfolio_09.jpg
-thumb: thumb02.jpg
+img: CrossbowFishing-1.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- CrossbowFishing-1.png
+- CrossbowFishing-2.png
 tagged: Flat, UI, Development
-client: Wonder Corp.
+client: Fishing Corp.
 website: https://blacktie.co
 ---
 ####YOUR PROJECT NAME
