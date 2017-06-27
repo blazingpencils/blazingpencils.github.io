@@ -1,3 +1,45 @@
+Quick Start Guide
+============
+
+##EDITING PROJECTS##
+
+To edit exisiting projects go to the "_projects" folder and find the select the project you wish to edit (Projects are named 01.markdown, 02.markdown, etc.). Projects are sorted according to their name. 01.markdown will display first in the projct queue with 02.markdown coming next. You can find a project's file name by looking at the end of the path for the associated project page's url.
+
+![Screenshot](https://blazingpencils.github.io/assets/img/URL-1.png)
+
+After selecting a project file, choose the edit button to begin making your changes.
+
+![Screenshot](https://blazingpencils.github.io/assets/img/ProjectEdit-1.png)
+
+From here you can change common project details such as dates, author, and client (I will cover changing, adding, and removing images in the "ADDING PROJECTS" section). You can also change the project description by editing the final blocks of text (under the "---", starting at line 18 in the below preview) on this page.
+
+![Screenshot](https://blazingpencils.github.io/assets/img/EditPage-1.png)
+
+To save your changes, scroll down and hit the green "Commit changes" button at the bottom of this page.
+
+![Screenshot](https://blazingpencils.github.io/assets/img/Commit-1.png)
+
+Your website will be updated with your project changes! The site may take a few minutes to update to reflect the changes you made.
+
+
+
+##ADDING PROJECTS##
+
+If you know how to edit exisiting projects, adding additional projects should be no big deal.
+
+
+
+
+To add new projects, you will need a tool called GitHub Desktop - you can download it [here](https://desktop.github.com/). This tool will help you upload the photos used for presenting your projects.
+
+To begin using GitHub Desktop, install it and sign in to your GitHub account. Once signed in, you want to clone your GitHub repository using the GitHub Website:
+
+![Screenshot](https://blazingpencils.github.io/assets/img/Clone-1.png)
+
+
+
+
+
 Solid. A Bootstrap theme for Jekyll.
 ============
 ![Screenshot](https://st4ple.github.io/solid-jekyll/assets/img/browser.png)
