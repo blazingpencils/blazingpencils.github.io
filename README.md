@@ -27,6 +27,28 @@ Your website will be updated with your project changes! The site may take a few 
 
 If you know how to edit exisiting projects, adding additional projects should be no big deal.
 
+First you'll want to upload the images you'll need for your new project. 
+
+The images for projects are located under "/assets/image/projects" and "/assets/image/projects/carousel". Images in the /assets/image/projects folder are what display on the homepage grid, while images in the /assets/image/projects/carousel are what display on the project's page.
+
+First we'll upload the image you want to appear on the homepage grid. I edited these images to use a size of 2000x1545px (in some cases adding an extra white background layer), or in case they were originally smaller, a size that kept that same ratio.
+
+Navigate to /assets/image/projects and drag the image you want to use onto the screen, then click the commit button.
+
+Next we'll upload the image(s) you want to appear on the project page in the same way.
+
+Navigate to /assets/image/projects/carousel and drag the image(s) you want to use onto the screen, then click the commit button.
+
+In the "_projects" folder select one of the existing project files (it doesn't matter which), choose the edit button, and then copy that file's contents (Select All > Right Click > Copy).
+
+Next, return to the "_projects" folder and choose the "Create new file" button.
+
+![Screenshot](https://blazingpencils.github.io/assets/img/Create-1.png)
+
+Name the new file in the format 01.markdown, with 01 being whatever comes next in the sequence (if you have 10 projects already, name the new project 11.markdown).
+
+Paste the contents you copied earlier into the new project file, 
+
 
 
 
