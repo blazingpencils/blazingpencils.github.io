@@ -1,17 +1,16 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Mau Character Design"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Tom Goddu
 categories:
 - project
-img: portfolio_01.jpg
+img: Mau-1.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- Mau-1.png
+- Mau-2.png
 tagged: Flat, UI, Development
-client: Wonder Corp.
+client: Disknee
 website: https://blacktie.co
 ---
 ####YOUR PROJECT NAME
