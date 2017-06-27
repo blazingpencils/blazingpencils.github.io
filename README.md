@@ -1,7 +1,8 @@
 Quick Start Guide
 ============
 
-##EDITING PROJECTS##
+EDITING PROJECTS
+============
 
 To edit exisiting projects go to the "_projects" folder and find the select the project you wish to edit (Projects are named 01.markdown, 02.markdown, etc.). Projects are sorted according to their name. 01.markdown will display first in the projct queue with 02.markdown coming next. You can find a project's file name by looking at the end of the path for the associated project page's url.
 
@@ -23,7 +24,8 @@ Your website will be updated with your project changes! The site may take a few 
 
 
 
-##ADDING PROJECTS##
+ADDING PROJECTS
+============
 
 If you know how to edit exisiting projects, adding additional projects should be no big deal.
 
