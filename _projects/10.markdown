@@ -1,14 +1,14 @@
 ---
 layout: project
-title:  "Mau Character Design"
+title:  "Mal Character Design"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
 - project
 img: Mau-1.png
 carousel:
-- Mau-1.png
-- Mau-2.png
+- Mal-1.png
+- Mal-2.png
 tagged: Flat, UI, Development
 client: Disknee
 website: https://blacktie.co
