@@ -39,6 +39,8 @@ Next we'll upload the image(s) you want to appear on the project page in the sam
 
 Navigate to /assets/image/projects/carousel and drag the image(s) you want to use onto the screen, then click the commit button.
 
+The images you'll be using should be uploaded.
+
 In the "_projects" folder select one of the existing project files (it doesn't matter which), choose the edit button, and then copy that file's contents (Select All > Right Click > Copy).
 
 Next, return to the "_projects" folder and choose the "Create new file" button.
@@ -47,16 +49,15 @@ Next, return to the "_projects" folder and choose the "Create new file" button.
 
 Name the new file in the format 01.markdown, with 01 being whatever comes next in the sequence (if you have 10 projects already, name the new project 11.markdown).
 
-Paste the contents you copied earlier into the new project file, 
+Paste the contents you copied earlier into the new project file, and change the "img:" option to whatever you named your image that you'd like to appear on the homepage grid (the first one you uploaded above). Change options under "carousel:" to the images you'd like to appear on the project page (the one(s) you uploaded to the "/carousel" folder.
+
+![Screenshot](https://blazingpencils.github.io/assets/img/EditPage-2.png)
+
+Then click the "Commit changes" button at the bottom of the page to save your changes for your new project. The site may take a few minutes to update.
 
 
 
 
-To add new projects, you will need a tool called GitHub Desktop - you can download it [here](https://desktop.github.com/). This tool will help you upload the photos used for presenting your projects.
-
-To begin using GitHub Desktop, install it and sign in to your GitHub account. Once signed in, you want to clone your GitHub repository using the GitHub Website:
-
-![Screenshot](https://blazingpencils.github.io/assets/img/Clone-1.png)
 
 
 
