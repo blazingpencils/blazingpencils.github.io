@@ -49,7 +49,7 @@ Next, return to the "_projects" folder and choose the "Create new file" button.
 
 Name the new file in the format 01.markdown, with 01 being whatever comes next in the sequence (if you have 10 projects already, name the new project 11.markdown).
 
-Paste the contents you copied earlier into the new project file, and change the "img:" option to whatever you named your image that you'd like to appear on the homepage grid (the first one you uploaded above). Change options under "carousel:" to the images you'd like to appear on the project page (the one(s) you uploaded to the "/carousel" folder.
+Paste the contents you copied earlier into the new project file, and change the "img:" option to whatever you named your image that you'd like to appear on the homepage grid (the first one you uploaded above to the /projects folder). Change options under "carousel:" to the images you'd like to appear on the project page (the one(s) you uploaded to the "/carousel" folder).
 
 ![Screenshot](https://blazingpencils.github.io/assets/img/EditPage-2.png)
 
