@@ -232,6 +232,10 @@ a:focus {
 	margin-bottom: 0px;
 }
 
+#headerwrap h2 {
+	margin-top: 0px;
+}
+
 #headerwrap .img-responsive {
 	margin: 0 auto;
 }
