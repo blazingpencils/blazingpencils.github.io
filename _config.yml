@@ -40,10 +40,11 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/blazingpencilsllc
   - title: facebook
     url: https://www.facebook.com/BlazingPencils
+
+  - title: linkedin
+    url: https://www.linkedin.com/in/blazingpencilsllc
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
