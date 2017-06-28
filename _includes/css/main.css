@@ -191,8 +191,8 @@ a:focus {
 }
 
 .mtb {
-	margin-top: 80px;
-	margin-bottom: 80px;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 
 .mb {
@@ -239,7 +239,7 @@ a:focus {
 /* Services Wrap */
 #service {
 	margin-top: 0px;
-	margin-bottom: 25px;
+	margin-bottom: 0px;
 }
 
 #service i {
@@ -250,7 +250,7 @@ a:focus {
 
 /* Portfolio Wrap */
 #portfoliowrap {
-	padding-top: 0px;
+	padding-top: 25px;
 	margin-bottom: 60px;
 	display: block;
 	text-align: center
