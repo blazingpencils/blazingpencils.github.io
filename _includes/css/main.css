@@ -223,9 +223,16 @@ a:focus {
 	text-align: center;
 }
 
-#headerwrap h3, h5 {
+#headerwrap h5 {
 	color: white;
 	font-weight: 400;
+}
+
+#headerwrap h3 {
+	color: white;
+	font-weight: 400;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
 }
 
 #headerwrap h1 {
