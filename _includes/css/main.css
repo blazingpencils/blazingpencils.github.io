@@ -311,7 +311,7 @@ a:focus {
     background: url(../img/t-back.jpg) no-repeat center top;
     position: relative;
     margin-top: 0px;
-	padding-top:60px;
+	padding-top:10px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
@@ -338,7 +338,7 @@ a:focus {
 #twrap p {
 	color: white;
 	font-size: 15px;
-	line-height: 30px;
+	line-height: 10px;
 }
 
 /* clients logo */
