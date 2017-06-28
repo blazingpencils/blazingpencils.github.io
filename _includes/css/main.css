@@ -230,10 +230,12 @@ a:focus {
 
 #headerwrap h1 {
 	margin-bottom: 0px;
+	padding-bottom: 0px;
 }
 
 #headerwrap h2 {
 	margin-top: 0px;
+	padding-top: 0px;
 }
 
 #headerwrap .img-responsive {
