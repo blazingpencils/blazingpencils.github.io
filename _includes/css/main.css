@@ -218,7 +218,7 @@ a:focus {
 #headerwrap {
 	/*background-color: {{ site.colors.primary }};*/
 	background-image: url(../img/header/pencils-1.jpg);
-	background: url(../img/header/pencils-1.jpg) no-repeat center top;
+	/*background: url(../img/header/pencils-1.jpg) no-repeat center top;*/
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
