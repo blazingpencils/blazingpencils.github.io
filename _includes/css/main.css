@@ -217,7 +217,7 @@ a:focus {
 
 #headerwrap {
 	/*background-color: {{ site.colors.primary }};*/
-	background-image: url(../img/header/SunsetOrange-3.png);
+	background-image: url(../img/header/SunsetOrange-2.png);
 	/*background: url(../img/header/pencils-1.jpg) no-repeat center top;*/
 	min-height: 0px;
 	padding-top: 100px;
