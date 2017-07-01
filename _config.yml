@@ -111,9 +111,9 @@ clients:
     img: client04.png
   - name: Mattel
     img: client05.png
-  - name: Code is Poetry
-    img: client06.png
   - name: Hasbro
+    img: client06.png
+
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
