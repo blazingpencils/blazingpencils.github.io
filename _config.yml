@@ -101,14 +101,20 @@ members:
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
+  - name: Winnebago
     img: client01.png
-  - name: Code is Poetry
+  - name: GE
     img: client02.png
-  - name: Vimeo
+  - name: THULE
     img: client03.png
-  - name: VimeoPro
+  - name: Armored AutoGroup
     img: client04.png
+  - name: Mattel
+    img: client05.png
+  - name: Code is Poetry
+    img: client06.png
+  - name: Hasbro
+
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
