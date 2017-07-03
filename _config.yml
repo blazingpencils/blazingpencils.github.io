@@ -113,6 +113,10 @@ clients:
     img: client05.png
   - name: Hasbro
     img: client06.png
+  - name: Disney
+    img: client07.png
+  - name: Spin Master
+    img: client08.png
 
 
 
