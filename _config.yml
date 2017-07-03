@@ -117,6 +117,14 @@ clients:
     img: client07.png
   - name: Spin Master
     img: client08.png
+  - name: ToysRUs
+    img: client09.png
+  - name: MGA
+    img: client10.png
+  - name: Style Works
+    img: client11.png
+  - name: Jakks
+    img: client12.png
 
 
 
