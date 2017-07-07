@@ -263,7 +263,7 @@ a:focus {
 /* Portfolio Wrap */
 #portfoliowrap {
 	padding-top: 25px;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	display: block;
 	text-align: center
 }
@@ -368,7 +368,6 @@ a:focus {
 
 /* Footer */
 #footerwrap {
-	margin-top: 60px;
 	padding-top: 60px;
 	padding-bottom: 60px;
 	background: {{ site.colors.secondary }};
