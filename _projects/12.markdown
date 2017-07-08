@@ -1,18 +1,16 @@
 ---
 layout: project
-title:  "Winnebago"
+title:  "Whirlpool"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
 - project
-img: winnebago.png
+img: Whirlpool1.png
 carousel:
-- winnebago.png
-- Trailer-1.png
-- Boat-1.png
-- ChargingStation-1.png
+- Whirlpool1.png
+- Whirlpool2.png
 tagged: Flat, UI, Development
-client: Winnebago
+client: Toys Corp.
 website: https://blacktie.co
 ---
 ####YOUR PROJECT NAME
