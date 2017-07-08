@@ -48,11 +48,10 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: tomgoddu@earthlink.net
-tel: +34 8493-4893
+    - Tom Goddu
+    - Blazing Pencils LLC
+    - (860) 738-2284
+    - tomgoddu@earthlink.net
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
