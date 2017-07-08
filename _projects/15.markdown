@@ -1,18 +1,15 @@
 ---
 layout: project
-title:  "Winnebago"
+title:  "Captain Hook Sub"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
 - project
-img: winnebago.png
+img: HookSub.png
 carousel:
-- winnebago.png
-- Trailer-1.png
-- Boat-1.png
-- ChargingStation-1.png
+- HookSub.png
 tagged: Flat, UI, Development
-client: Winnebago
+client: Disknee
 website: https://blacktie.co
 ---
 ####YOUR PROJECT NAME
