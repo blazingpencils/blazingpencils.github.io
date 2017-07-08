@@ -1,18 +1,15 @@
 ---
 layout: project
-title:  "Winnebago"
+title:  "Air Ship"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
 - project
-img: winnebago.png
+img: Airship1.png
 carousel:
-- winnebago.png
-- Trailer-1.png
-- Boat-1.png
-- ChargingStation-1.png
+- Airship1.png
 tagged: Flat, UI, Development
-client: Winnebago
+client: Toys Corp.
 website: https://blacktie.co
 ---
 ####YOUR PROJECT NAME
