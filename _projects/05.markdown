@@ -4,7 +4,7 @@ title:  "ABLE - Baggage Robot"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
-- project
+- concept
 img: ABLE-1.png
 carousel:
 - ABLE-1.png
