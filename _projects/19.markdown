@@ -4,7 +4,7 @@ title:  "Nerf Rebelle"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
-- project
+- toys
 img: NerfRebelle1.png
 carousel:
 - NerfRebelle1.png
