@@ -4,7 +4,7 @@ title:  "Pooh Crib"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
-- project
+- toys
 img: CribSpec1.png
 carousel:
 - CribSpec1.png
