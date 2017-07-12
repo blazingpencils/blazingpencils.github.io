@@ -4,7 +4,7 @@ title:  "Mal Character Design"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
-- project
+- toys
 img: Mal-1.png
 carousel:
 - Mal-1.png
