@@ -4,7 +4,7 @@ title:  "Elsa"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
-- project
+- toys
 img: Elsa1.png
 carousel:
 - Elsa1.png
