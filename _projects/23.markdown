@@ -4,7 +4,7 @@ title:  "End Cap Display"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
-- project
+- toys
 img: EndCap1.png
 carousel:
 - EndCap1.png
