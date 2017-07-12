@@ -4,7 +4,7 @@ title:  "Digital A/C Filler"
 date:   2014-04-25 16:54:46
 author: Tom Goddu
 categories:
-- project
+- consumer
 img: DigitalACFiller-1.png
 carousel:
 - DigitalACFiller-1.png
