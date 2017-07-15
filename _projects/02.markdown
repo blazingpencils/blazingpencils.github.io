@@ -14,5 +14,5 @@ client: Fishing Corp.
 website: https://blacktie.co
 ---
 ####Crossbow Fishing Concept
-Shoots the lure eaxactly where you want it to bring in the big game fish. Includes storage...
+Shoots the lure exactly where you want it to bring in the big game fish. Includes storage...
 ####Our proposal included telescoping rod and camo presentation.
