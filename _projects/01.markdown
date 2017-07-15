@@ -11,7 +11,7 @@ carousel:
 - Trailer-1.png
 - Boat-1.png
 - ChargingStation-1.png
-tagged: Flat, UI, Development
+tagged: consumer
 client: Winnebago
 website: https://blacktie.co
 ---
