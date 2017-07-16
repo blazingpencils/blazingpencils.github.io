@@ -31,7 +31,7 @@ If you know how to edit exisiting projects, adding additional projects should be
 
 First you'll want to upload the images you'll need for your new project. 
 
-The images for projects are located under "/assets/image/projects" and "/assets/image/projects/carousel". Images in the /assets/image/projects folder are what display on the homepage grid, while images in the /assets/image/projects/carousel are what display on the project's page.
+The images for projects are located under "/assets/image/projects" and "/assets/image/projects/carousel". Images in the /assets/image/projects folder are what display on the project grid (on the homepage and on the projects page), while images in the /assets/image/projects/carousel are what display on the specific project's page.
 
 First we'll upload the image you want to appear on the homepage grid. I edited these images to use a size of 2000x1545px (in some cases adding an extra white background layer), or in case they were originally smaller, a size that kept that same ratio.
 
