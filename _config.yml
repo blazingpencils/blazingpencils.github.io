@@ -6,6 +6,7 @@ description: "Write an awesome description for your new site here. You can edit 
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://blazingpencils.com"
+enforce_ssl: "blazingpencils.com"
 repository: "blazingpencils/blazingpencils.github.io"
 staticman:
 branch: "master"
