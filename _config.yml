@@ -2,7 +2,7 @@
 
 # Site settings
 title: BLAZING PENCILS
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Providing a full menu of design services for consumer products and toys"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://blazingpencils.com"
