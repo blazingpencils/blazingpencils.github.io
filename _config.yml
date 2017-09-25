@@ -125,10 +125,10 @@ clients:
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Concepts and Design Services for Consumer Products, Automotive, Toys, and Juvenile Products since 1980"
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "This is my quote and it's really witty because I said it."
+    message: "  "
     author: Tom Goddu
     position: INDUSTRIAL DESIGNER
