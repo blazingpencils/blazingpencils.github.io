@@ -2,7 +2,7 @@
 
 # Site settings
 title: BLAZING PENCILS
-description: "Providing a full menu of design services for consumer products and toys"
+description: "Industrial Design contractor for consumer products"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://blazingpencils.com"
