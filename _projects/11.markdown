@@ -12,5 +12,5 @@ tagged: Flat, UI, Development
 client: Nickelodeon
 website: https://blacktie.co
 ---
-####Pooh Wave Mobile - Color rendering with PMS Color spec 
+####Sponge Bob's Krusty Krab playset concept 
 ####
