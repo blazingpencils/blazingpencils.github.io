@@ -12,4 +12,4 @@ tagged: Flat, UI, Development
 client: The First Years, Inc.
 website: https://blacktie.co
 ---
-####Crawl-to-Walk infant gym exerciser for The First Years won a Toy Of The Year award, 1999.
+Crawl-to-Walk infant gym exerciser for The First Years won a Toy Of The Year award, 1999.
