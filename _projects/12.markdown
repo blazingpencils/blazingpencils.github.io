@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Whirlpool"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - toys
@@ -10,9 +10,8 @@ carousel:
 - Whirlpool1.png
 - Whirlpool2.png
 tagged: Flat, UI, Development
-client: Toys Corp.
-website: https://blacktie.co
----
-####Treasure Island Playset concept
+client: Jakks Pacific
 
-####
+---
+Treasure Island Playset concept
+
