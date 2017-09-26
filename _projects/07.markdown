@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "GE Ergonomic Switch"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - concept
@@ -10,7 +10,7 @@ carousel:
 - GESwitch.png
 tagged: Flat, UI, Development
 client: GE
-website: https://blacktie.co
+
 ---
 Lockout/Tagout Circuit Breaker for GE Industrial Safety
 
