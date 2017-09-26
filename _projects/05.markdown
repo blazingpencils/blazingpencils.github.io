@@ -12,6 +12,6 @@ tagged: Flat, UI, Development
 client: Central Airport
 website: https://blacktie.co
 ---
-####Autonomous Baggage Loading Equipment
+Autonomous Baggage Loading Equipment - KLM
 Award winning Baggage handling vehicle features a soft gripper from Soft Robotics inc, and robot from ABB inc., vehicle would be custom designed and built.
-####Proposal was a finalist in a KLM Airlines innovation challenge conducted by Nine Sigma.
+My proposal was a finalist in a KLM Airlines innovation challenge conducted by Nine Sigma.
