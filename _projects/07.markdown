@@ -12,7 +12,7 @@ tagged: Flat, UI, Development
 client: GE
 website: https://blacktie.co
 ---
-####Lockout/Tagout Circuit Breaker for GE Industrial Safety
+Lockout/Tagout Circuit Breaker for GE Industrial Safety
 
-####Safety switch only allows workers to enter the enclosure when the power is cut off to the machine,
+Safety switch only allows workers to enter the enclosure when the power is cut off to the machine,
 with lighted indicators and a padlock safety protocol.
