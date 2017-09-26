@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Nerf Rebelle"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - toys
@@ -10,6 +10,5 @@ carousel:
 - NerfRebelle1.png
 tagged: Flat, UI, Development
 client: Nerf
-website: https://blacktie.co
 ---
-####Nerf Rebelle role play concept for Hasbro
+Nerf Rebelle role play concept for Hasbro
