@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Crossbow Fishingrod"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - consumer
@@ -11,7 +11,7 @@ carousel:
 - CrossbowFishing-2.png
 tagged: Flat, UI, Development
 client: Fishing Corp.
-website: https://blacktie.co
+
 ---
 Crossbow Fishing Concept
 Shoots the lure exactly where you want it to bring in the big game fish. Includes storage...
