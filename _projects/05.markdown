@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "ABLE - Baggage Robot"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - concept
@@ -10,8 +10,8 @@ carousel:
 - ABLE-1.png
 tagged: Flat, UI, Development
 client: Central Airport
-website: https://blacktie.co
+
 ---
 Autonomous Baggage Loading Equipment - KLM
 Award winning Baggage handling vehicle features a soft gripper from Soft Robotics inc, and robot from ABB inc., vehicle would be custom designed and built.
-My proposal was a finalist in a KLM Airlines innovation challenge conducted by Nine Sigma.
+My proposal was a finalist in a KLM Airlines innovation challenge conducted by Nine Sigma, earning a cash award and a trip to Europe.
