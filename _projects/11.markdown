@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Krusty Krab"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - toys
@@ -9,8 +9,8 @@ img: KrustyKrab1.png
 carousel:
 - KrustyKrab1.png
 tagged: Flat, UI, Development
-client: Nickelodeon
-website: https://blacktie.co
+client: Spin Master
+
 ---
-####Sponge Bob's Krusty Krab playset concept 
-####
+Sponge Bob's Krusty Krab playset concept 
+
