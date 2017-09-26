@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "2-in-1 Gym to Walker"
-date:   2014-04-25 16:54:46
+title:  "2-in-1 Floor Gym to Walker"
+
 author: Tom Goddu
 categories:
 - toys
@@ -10,6 +10,6 @@ carousel:
 - GymToWalker.png
 tagged: Flat, UI, Development
 client: The First Years, Inc.
-website: https://blacktie.co
+
 ---
-Crawl-to-Walk infant gym exerciser for The First Years won a Toy Of The Year award, 1999.
+My Crawl-to-Walk infant gym exerciser for The First Years won a Toy Of The Year award, 1999.
