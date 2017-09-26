@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "Elsa"
-date:   2014-04-25 16:54:46
+title:  "Elsa transform outfit"
+
 author: Tom Goddu
 categories:
 - toys
@@ -9,7 +9,7 @@ img: Elsa1.png
 carousel:
 - Elsa1.png
 tagged: Flat, UI, Development
-client: Disknee
-website: https://blacktie.co
+client: Hasbro
+
 ---
-####'Frozen' Elsa Doll transforming outfit concept - Hasbro
+'Frozen' Elsa Doll transforming outfit concept
