@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "Air Ship"
-date:   2014-04-25 16:54:46
+title:  "AirShip"
+
 author: Tom Goddu
 categories:
 - toys
@@ -9,7 +9,7 @@ img: Airship1.png
 carousel:
 - Airship1.png
 tagged: Flat, UI, Development
-client: Toys Corp.
-website: https://blacktie.co
+client: MGA Entertainment
+
 ---
-#### MGA Airship playset concept
+MGA Airship playset concept
