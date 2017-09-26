@@ -12,6 +12,6 @@ tagged: Flat, UI, Development
 client: Farm Animal Medical
 website: https://blacktie.co
 ---
-####Winning design for General Electric's Water and Process Technologies Group. 
+Winning design for General Electric's Water and Process Technologies Group. 
 
-####My mistake-proof design incorporated identical ends, with male and female couplers at both ends. The application is for industrial water filter cartridges, that can filter large volumes of dirty water for drinking. The design took injection molding details into consideration, creating a low-cost solution without expensive injection molding requirements.
+My mistake-proof design incorporated identical ends, with male and female couplers at both ends. The application is for industrial water filter cartridges, that can filter large volumes of dirty water for drinking. The design took injection molding details into consideration, creating a low-cost solution without expensive injection molding requirements.
