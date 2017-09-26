@@ -12,6 +12,6 @@ tagged: Flat, UI, Development
 client: Fisher-Price
 website: https://blacktie.co
 ---
-####Octonauts Playset
+Octonauts Playset
 
-####Design of a rolling tub toy playset with lots of play features, water and character play.
+Design of a rolling tub toy playset with lots of play features, water and character play.
