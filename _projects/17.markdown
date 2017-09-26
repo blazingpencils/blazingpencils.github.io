@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Bath PlaySet"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - toys
@@ -10,6 +10,7 @@ carousel:
 - BathSet1.png
 tagged: Flat, UI, Development
 client: Toy Corp.
-website: https://blacktie.co
+
 ---
-####Thomas The Tank bathtub playset concept (rough)
+Thomas The Tank bathtub playset concept (rough)
+Some clients want to see the rough sketches!
