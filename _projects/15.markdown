@@ -9,7 +9,7 @@ img: HookSub.png
 carousel:
 - HookSub.png
 tagged: Flat, UI, Development
-client: Disknee
+client: Hasbro
 website: https://blacktie.co
 ---
-####Hasbro Neverland Hook's Squidly Sub playset concept
+Neverland- Hook's Squidly Sub playset concept
