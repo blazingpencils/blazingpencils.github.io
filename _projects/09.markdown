@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Octonauts Playset"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - toys
@@ -10,7 +10,7 @@ carousel:
 - Octonauts-1.png
 tagged: Flat, UI, Development
 client: Fisher-Price
-website: https://blacktie.co
+
 ---
 Octonauts Playset
 
