@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "Big Playset"
-date:   2014-04-25 16:54:46
+title:  "Tidmouth Sheds Playset"
+
 author: Tom Goddu
 categories:
 - toys
@@ -9,7 +9,7 @@ img: BigSet1.png
 carousel:
 - BigSet1.png
 tagged: Flat, UI, Development
-client: Toy Corp.
-website: https://blacktie.co
+client: Fisher-Price
+
 ---
-####Thomas The Tank "Tidmouth Sheds" playset concept for Fisher-Price
+Thomas The Tank "Tidmouth Sheds" playset concept for Fisher-Price
