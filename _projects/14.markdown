@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Ramp Playset"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - toys
@@ -9,7 +9,7 @@ img: Ramp1.png
 carousel:
 - Ramp1.png
 tagged: Flat, UI, Development
-client: ToysCorp
-website: https://blacktie.co
+client: Fisher-Price
+
 ---
-####Fisher-Price Thomas The Tank track set- concept & layout 
+Fisher-Price Thomas The Tank track set- concept & layout 
