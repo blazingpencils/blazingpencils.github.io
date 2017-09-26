@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Tower Ramp Playset"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - toys
@@ -9,7 +9,7 @@ img: TowerRamp1.png
 carousel:
 - TowerRamp1.png
 tagged: Flat, UI, Development
-client: Toy Corp.
-website: https://blacktie.co
+client: Fisher-Price
+
 ---
-####Thomas The Tank Tower Ramp Playset
+Thomas The Tank Tower Ramp Playset
