@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Space Ship Playset"
-date:   2014-04-25 16:54:46
+
 author: Tom Goddu
 categories:
 - toys
@@ -9,7 +9,7 @@ img: SpaceShip1.png
 carousel:
 - SpaceShip1.png
 tagged: Flat, UI, Development
-client: Toy Corp.
-website: https://blacktie.co
+client: MGA Entertainment
+
 ---
-####Rough concept for MGA playset
+Rough concept for MGA playset
