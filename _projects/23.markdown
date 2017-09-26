@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "End Cap Display"
-date:   2014-04-25 16:54:46
+title:  "End Cap Display Concept"
+
 author: Tom Goddu
 categories:
 - toys
@@ -9,7 +9,7 @@ img: EndCap1.png
 carousel:
 - EndCap1.png
 tagged: Flat, UI, Development
-client: Disknee
-website: https://blacktie.co
+client: Spin Master
+
 ---
-####SpinMaster display concept with dump bins for surprise dolls
+SpinMaster display concept with dump bins for surprise dolls
