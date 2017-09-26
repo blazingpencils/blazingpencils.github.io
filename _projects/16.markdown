@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "Pooh Crib"
-date:   2014-04-25 16:54:46
+title:  "Pooh Musical Mobile"
+
 author: Tom Goddu
 categories:
 - toys
@@ -9,7 +9,8 @@ img: CribSpec1.png
 carousel:
 - CribSpec1.png
 tagged: Flat, UI, Development
-client: Disknee
-website: https://blacktie.co
+client: The First Years
+
 ---
-####Pooh Crib mobile concept / The First Years
+Pooh Crib Mobile concept / The First Years
+Color Spec
