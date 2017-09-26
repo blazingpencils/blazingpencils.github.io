@@ -12,4 +12,4 @@ tagged: Flat, UI, Development
 client: Farm Animal Medical
 website: https://blacktie.co
 ---
-####Bovine Imaging Trailer Proposal will allow on-site imaging of cattle, whether they are at their farms or at cattle shows. Design includes ABB robots with CT-scan, Sonar and other imaging systems to evaluate the health and productivity of cattle for breeding and sale. Design features slide-out sections to accommodate cattle and robots, entrance and exit ramps, and office/data integration area. 
+Bovine Imaging Trailer Proposal will allow on-site imaging of cattle, whether they are at their farms or at cattle shows. Design includes ABB robots with CT-scan, Sonar and other imaging systems to evaluate the health and productivity of cattle for breeding and sale. Design features slide-out sections to accommodate cattle and robots, entrance and exit ramps, and office/data integration area. 
