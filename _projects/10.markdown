@@ -10,9 +10,9 @@ carousel:
 - Mal-1.png
 - Mal-2.png
 tagged: Flat, UI, Development
-client: Disknee
-website: https://blacktie.co
+client: Hasbro
+
 ---
-####"Mal" character play features...
+"Mal" character play features...
 Concept page for electronic-enabled play features and doll accessories
-####
+
