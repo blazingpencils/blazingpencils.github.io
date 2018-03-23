@@ -129,6 +129,6 @@ about: "Concepts and Design Services for Consumer Products, Automotive, Toys, an
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "  "
-    author: Tom Goddu
-    position: INDUSTRIAL DESIGNER
+    message: ""
+    author:
+    position:
