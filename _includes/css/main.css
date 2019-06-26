@@ -117,7 +117,7 @@ a:focus {
 	font-size: 12px;
 }
 
-.navbar-default .navbar-nav > li > a:hover {
+.navbar-default .navbar-nav .navbar-brand > li > a:hover {
 	color: {{ site.colors.primary }};
 }
 
